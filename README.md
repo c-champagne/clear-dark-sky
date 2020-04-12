@@ -1,6 +1,6 @@
 # Clear Dark Sky
 
-![Landing page for Clear Dark Sky](./images/landingpage.png)
+![Landing page for Clear Dark Sky](./images/landingpage.PNG)
 
 ## Description
 The user can see whether or not they will have good stargazing viewing conditions based on their location, weather, and the state of the moon.
@@ -30,7 +30,7 @@ Clear Dark Sky uses primarily Bootstrap and Flexbox styling.  The landing page c
 
 The background of the main div is initially an image of the earth.  Once the user generates their stargazing forecast, the background will change to match their result: a clear night sky (excellent), a partly cloudy night sky (good), or a cloudy sky with a full moon (bad).  
 
-![What the user will see for bad viewing conditions](./images/exampleBadView.png)
+![What the user will see for bad viewing conditions](./images/exampleBadView.PNG)
 
 There is an About Us page that explains and links to the APIs used.  The user can also access the Team page to learn a little more about the team that built the site.  The Team page uses Bootstrap elements to display each team member in a card with their name and what type of work they performed on the project.
 
